@@ -20,5 +20,7 @@
 
 자바 git 연동하기: [git 연동](https://goddaehee.tistory.com/m/249)
 
+구글 로그인API 사용:[구글API](https://tyrannocoding.tistory.com/m/51)
+
 </div>
 </details>
