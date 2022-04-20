@@ -14,7 +14,7 @@
 
 제트브레인 IDEA EDU 다운로드: [JetBrains Idea Edu](https://www.jetbrains.com/ko-kr/idea-edu/)
 
-학교계정으로 IntelliJ 설치하기: [IntelliJ EDU](https://www.jetbrains.com/community/education/#students)
+학교계정으로 IntelliJ 설치하기: [IntelliJ EDU](https://www.jetbrains.com/ko-kr/community/education/#students)
 
 <details>
 <summary>참고자료</summary>
