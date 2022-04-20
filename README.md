@@ -13,3 +13,9 @@
 제트브레인 IDEA 다운로드: [JetBrains Idea](https://www.jetbrains.com/ko-kr/idea/)
 
 제트브레인 IDEA EDU 다운로드: [JetBrains Idea Edu](https://www.jetbrains.com/ko-kr/idea-edu/)
+
+<details>
+<summary>참고자료</summary>
+<div markdown="1">
+
+자바 git 연동하기: [git 연동](https://goddaehee.tistory.com/m/249)
