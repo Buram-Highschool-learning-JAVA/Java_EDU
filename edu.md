@@ -4,7 +4,7 @@
 
 자바 교육문서: [자바 교육용 문서](https://wikidocs.net/book/31)
 
-자바 학습계획: [계획](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/blob/main/%ED%95%99%EC%8A%B5%EA%B3%84%ED%9A%8D.md)
+자바 학습계획: [계획](./plan.md)
 
 ## 개발도구 다운로드
 
