@@ -19,6 +19,8 @@
 <details>
 <summary>참고자료</summary>
 <div markdown="1">
+  
+제트브레인 학생라이센스 받기:[제트브레인 학생](https://goddaehee.tistory.com/215)
 
 자바 git 연동하기: [git 연동](https://goddaehee.tistory.com/m/249)
 
