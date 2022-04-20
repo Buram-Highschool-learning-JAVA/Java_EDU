@@ -1,6 +1,6 @@
 # 불암고 자바학습
 
-학습계획: [계획](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/blob/main/%ED%95%99%EC%8A%B5%EA%B3%84%ED%9A%8D.md)
+학습계획: [계획](./plan.md)
 
 ## 자료들
 
@@ -10,7 +10,7 @@
 
 ## 학습공간
 
-자바 학습공간: [자바 EDU](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu)
+자바 학습공간: [자바 EDU](./edu.md)
 
 소스코드 저장소: [소스코드](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/tree/main/Source_Codes)
 
