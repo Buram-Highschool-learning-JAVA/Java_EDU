@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# 불암고 자바학습
 
-You can use the [editor on GitHub](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+학습계획: [계획](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/blob/main/%ED%95%99%EC%8A%B5%EA%B3%84%ED%9A%8D.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 자료들
 
-### Markdown
+학습에 사용하는 문서 : [점프 투 자바](https://wikidocs.net/book/31) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+도움이 되는 자료들: [무료 책들](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ko.md)
 
-```markdown
-Syntax highlighted code block
+## 학습공간
 
-# Header 1
-## Header 2
-### Header 3
+자바 학습공간: [자바 EDU](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu)
 
-- Bulleted
-- List
+소스코드 저장소: [소스코드](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/tree/main/Source_Codes)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+질문/에러 저장소: [이슈](https://github.com/Buram-Highschool-learning-JAVA/Java_Edu/issues)
