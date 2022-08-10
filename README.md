@@ -16,6 +16,8 @@
 
 학교계정으로 IntelliJ 설치하기: [IntelliJ EDU](https://www.jetbrains.com/community/education/#students)
 
+MySQL 다운로드: [MySQL 설치](https://dev.mysql.com/downloads/windows/installer/8.0.html)
+
 <details>
 <summary>참고자료</summary>
 <div markdown="1">
