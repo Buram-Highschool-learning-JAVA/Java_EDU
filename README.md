@@ -26,7 +26,9 @@ MySQL 다운로드: [MySQL 설치](https://dev.mysql.com/downloads/windows/insta
 
 자바 git 연동하기: [git 연동](https://goddaehee.tistory.com/m/249)
 
-구글 로그인API 사용:[구글API](https://tyrannocoding.tistory.com/m/51)
+구글 로그인API 사용: [구글API](https://tyrannocoding.tistory.com/m/51)
+
+MySQL 에러 해결법: [MySQL](https://www.inflearn.com/questions/4009)
 
 </div>
 </details>
